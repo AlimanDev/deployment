@@ -1,0 +1,12 @@
+src/db.sqlite3
+src/media
+src/static
+.idea
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+nginx/default.conf
